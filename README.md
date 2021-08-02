@@ -2,6 +2,10 @@
 
 Hello!, I'm a Principal Architect with extensive experience in digital transformation projects, enterprise architecture and application development 👨‍💻
 
+<p align="center">
+  <img height="250" alt="ldiego73" src="dev.gif">
+</p>
+
 ## About me
 
 I'm an engineer passionate about technologies, the development of fantastic applications whether they are websites, mobile applications or anything else.
@@ -11,7 +15,7 @@ In my free time I like to travel and get to know new places, cultures and people
 <div>
   <a href="https://github.com/ldiego73" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldiego73&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldiego73&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldiego73&layout=compact&langs_count=7&theme=dark"/>+
 </div>
 
 <!-- https://devicon.dev/ -->
