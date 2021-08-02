@@ -39,7 +39,7 @@ In my free time I like to travel and get to know new places, cultures and people
 
 <div> 
   <a href="https://instagram.com/ldiego73" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lfdiego73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lfdiego7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ldiego73" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/ldiego73" target="_blank"><img src="https://img.shields.io/badge/dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 </div>
